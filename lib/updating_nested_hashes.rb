@@ -27,8 +27,9 @@ def update_status
 
 
   # After your code, the following code will return the altered hash. This method must only return the modified epic_tragedy hash
-  epic_tragedy
 end
+  epic_tragedy
+
 
 def add_characters
    epic_tragedy = {
