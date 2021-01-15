@@ -64,7 +64,7 @@ def add_characters
    apothecary = { name: "Apothecary"}
    epic_tragedy[:additional_characters].push prince
    epic_tragedy[:additional_characters].push apothecary
-     
+
 
 
 
